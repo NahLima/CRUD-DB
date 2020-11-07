@@ -11,7 +11,7 @@ SEMANA 14 {REPROGRAMA}<p>
 ![db](./img/db.jpg)
 
 ## Projeto 
-* Criar uma Api de agenda para reunir contatos do nosso usuário
+* Criar uma Api de agenda para reunir contatos dos nossos usuários
 * Criar uma representação da arquitetura
 
 ![ref](./img/ref.JPG)
