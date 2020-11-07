@@ -1,0 +1,30 @@
+{
+  "name": "crud-db",
+  "version": "1.0.0",
+  "description": "semana 14 {reprograma}",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NahLima/CRUD-DB.git"
+  },
+  "keywords": [
+    "API",
+    "agenda"
+  ],
+  "author": "naiara lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NahLima/CRUD-DB/issues"
+  },
+  "homepage": "https://github.com/NahLima/CRUD-DB#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.13",
+    "nodemon": "^2.0.6"
+  }
+}
