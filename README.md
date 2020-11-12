@@ -24,7 +24,7 @@
 * Criar uma Api de agenda para reunir contatos dos nossos usuários
 * Criar uma representação da arquitetura
 
-![ref](./img/ref.JPG)
+![estrutura](./img/estrutura.JPG)
 
 ## Dados para Collection
 
