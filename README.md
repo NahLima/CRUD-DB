@@ -1,6 +1,14 @@
-# CRUD-DB
+# CRUD-DB 
+
+# Api - Agenda
+
 <p align="center"> # CRUD-DB
-SEMANA 14 {REPROGRAMA}<p>
+{REPROGRAMA}<p>
+
+**API** Iterface de Programação de Aplicativos. API busca criar formas e ferramentas de se usar uma funcionalidade ou uma informação sem realmente ter que "reiventar a roda", a api não necessáriamente está num link da web, ela pode ser um LIB ou FRAMEWORK, uma função já pronta em uma linguagem específica, etc. 
+
+**WEB API e API REST** é uma interface que é disponibilizada de forma remota, pela web, que possibilita a programação de aplicativos e softwares. E as APIs RESTfull são aquelas que são capazes de fazer o REST. Que nada mais é uma API que usa protocolos HTTP para comunicação entre o usuário e o servidor.
+
 
 **CRUD** são as quatro operações básicas utilizadas em bases de dados relacionais fornecidas aos utilizadores do sistema. Outros acrônimos podem ser usados para definir as mesmas operações: ABCD: Add, Browse, Change and Delete BREAD: Browse, Read, Edit, Add and Delete VADE: View, Add, Delete, Edit
 
@@ -8,7 +16,9 @@ SEMANA 14 {REPROGRAMA}<p>
 
 
 **DB** Bancos de dados ou bases de dados são conjuntos de arquivos relacionados entre si com registros sobre pessoas, lugares ou coisas. São coleções organizadas de dados que se relacionam de forma a criar algum sentido e dar mais eficiência durante uma pesquisa ou estudo cientifico.
+
 ![db](./img/db.jpg)
+
 
 ## Projeto 
 * Criar uma Api de agenda para reunir contatos dos nossos usuários

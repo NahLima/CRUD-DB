@@ -22,22 +22,15 @@ const contatosSchema = new Schema({
         required: true
     },
     dataNascimento:{
-        type: String,
-        required: true
+        type: Date,
+        required: false
     },
     fotoPerfil:{
         type: String,
         required: false
     },
     
-},
-
-    // {
-    // collection:"contatos",
-    // versionKey:false
-    // }
-
-)
+})
 
 const contatosCollection = mongoose.model('contatos',contatosSchema)
 

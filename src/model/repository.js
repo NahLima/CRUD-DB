@@ -1,5 +1,5 @@
 const mongoose = require("mongoose")
-const DB_URL = "mongodb://localhost:27017/REPROGRAMA"  // nome da conexão 
+const DB_URL = "mongodb://localhost:27017/reprograma"  // nome da conexão 
 
 const connect = () => {
     mongoose.connect(DB_URL, {useNewUrlParser:true}) // esse parametro é para a gente não ficar recebenco erros // coloca uma string para json

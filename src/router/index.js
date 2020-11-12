@@ -1,10 +1,10 @@
 const express = require('express');
-const { response } = require('../app');
+//const { response } = require('../app');
 const router = express.Router()
 
 router.get("/", function(request,response){
     response.status(200).send({
-        titulo:"Agenda de contatinhos {reprograma}",
+        titulo:"Agenda de contatos {reprograma}",
         version:"1.0.0"
     })
 })
